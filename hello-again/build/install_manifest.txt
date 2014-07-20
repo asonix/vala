@@ -1,0 +1,2 @@
+/usr/bin/hello-again
+/hello-again/applications/hello.desktop
