@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/riley/git/vala/gtk-testing/build/src/gtk-testing.c
+glib.h
+-
+glib-object.h
+-
+stdlib.h
+-
+string.h
+-
+gtk/gtk.h
+-
+float.h
+-
+math.h
+-
+

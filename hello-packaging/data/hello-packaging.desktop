@@ -1,0 +1,11 @@
+[Desktop Entry]
+Name=Hello Packaging
+GenericName=Hello World App
+Comment=Proves that we can package apps with Vala and Gtk
+Categories=GTK;Utility;
+Exec=hello-packaging
+Icon=application-default-icon
+Terminal=false
+Type=Application
+X-GNOME-Gettext-Domain=hello-packaging
+X-GNOME-Keywords=Hello;World;Example;

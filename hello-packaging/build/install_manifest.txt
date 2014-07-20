@@ -1,0 +1,2 @@
+/usr/bin/hello-packaging
+/hello-packaging/applications/hello-packaging.desktop

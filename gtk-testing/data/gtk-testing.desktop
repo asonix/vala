@@ -1,0 +1,11 @@
+[Desktop Entry]
+Name=GTK-testing
+GenericName=Learning GTK
+Comment=Proves that we can package apps with Vala and properly utilize Gtk
+Categories=GTK;Utility;
+Exec=gtk-testing
+Icon=application-default-icon
+Terminal=false
+Type=Application
+X-GNOME-Gettext-Domain=gtk-testing
+X-GNOME-Keywords=Hello;World;Example;

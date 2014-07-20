@@ -1,0 +1,2 @@
+/usr/bin/gtk-testing
+/gtk-testing/applications/gtk-testing.desktop

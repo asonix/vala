@@ -1,0 +1,3 @@
+# Hashes of file build rules.
+e9ae63c05be4d112416c6205b1ba6393 gtk-testing_valac.stamp
+42a414049f5be05cbd55df3046574dfb src/gtk-testing.c
